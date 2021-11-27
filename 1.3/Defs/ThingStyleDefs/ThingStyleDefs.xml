@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Hindu -->
+
+
+
+  <ThingStyleDef>
+    <defName>AS_HinduPowerArmor</defName>
+    <wornGraphicPath>Things/Apparel/Hindu/AS_HinduPowerArmor/AS_HinduPowerArmor</wornGraphicPath>
+    <graphicData>
+      <texPath>Things/Apparel/Hindu/AS_HinduPowerArmor/AS_HinduPowerArmor</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+	  <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+    </graphicData>
+  </ThingStyleDef>
+
+  
+
+</Defs>
